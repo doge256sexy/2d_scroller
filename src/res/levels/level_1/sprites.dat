@@ -1,0 +1,5 @@
+currentImage=plaster type=staticbackground scale=10 xpos=4 ypos=6 depth=10 name=plaster1
+currentImage=dice type=staticbackground scale=0.5 xpos=-20 ypos=0 depth=3 name=dice1
+currentImage=dice type=staticbackground scale=0.5 xpos=-20 ypos=0 depth=3 name=dice1
+currentImage=mario type=staticbackground scale=1 xpos=0 ypos=0 depth=2 name=mario1
+currentImage=map type=staticbackground scale=1 xpos=0 ypos=0 depth=1 name=map1

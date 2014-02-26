@@ -1,0 +1,1 @@
+name=playerPhys airfriction=0.999 staticFriction=0.95 gravity=2500 targetXSpeed=300 targetXSpeed_running=750 xAcceleration=4000 jumpForce=120000
