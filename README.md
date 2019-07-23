@@ -16,3 +16,17 @@ which is found in ```/working jar/```.
 Click on the jar file.
 
 Thanks for playing!!!
+
+# Background
+
+This is the first standalone project of mine written in a "real" programming language. Before, I had used LOGO, and scratch, 
+and fiddled around with Minecraft's source code. 
+
+# Technical details
+This game uses ![LWJGL](https://www.lwjgl.org/). 
+A bitmap is used to detect collisions. 
+
+There is: 
+- A system to load levels from a file
+- A camera
+- OpenGL based rendering
